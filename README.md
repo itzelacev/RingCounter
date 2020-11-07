@@ -1,3 +1,3 @@
 # RingCounter
 
-Programa para hacer un contador de anillo en lenguaje c, usando un PIC 18F4620
+Programa para hacer un contador de anillo en lenguaje C, usando un PIC 18F4620
